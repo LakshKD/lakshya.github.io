@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lakshya</title>
-    <link>https://LakshKD.github.io/</link>
-      <atom:link href="https://LakshKD.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Lakshya</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://LakshKD.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Lakshya</title>
-      <link>https://LakshKD.github.io/</link>
+      <link>/</link>
     </image>
     
     <item>
       <title>Deep Contextual Embeddings for Address Classification in E-commerce</title>
-      <link>https://LakshKD.github.io/publication/addressembeddings.html</link>
+      <link>/publication/addressembeddings.html</link>
       <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://LakshKD.github.io/publication/addressembeddings.html</guid>
+      <guid>/publication/addressembeddings.html</guid>
       <description>&lt;!--
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -39,9 +39,9 @@
     
     <item>
       <title>Object localization framework for unannotated image data</title>
-      <link>https://LakshKD.github.io/publication/patent2.html</link>
+      <link>/publication/patent2.html</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://LakshKD.github.io/publication/patent2.html</guid>
+      <guid>/publication/patent2.html</guid>
       <description>&lt;!--
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -64,9 +64,9 @@
     
     <item>
       <title>System and method for live product report generation without annotated training data</title>
-      <link>https://LakshKD.github.io/publication/patent1.html</link>
+      <link>/publication/patent1.html</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://LakshKD.github.io/publication/patent1.html</guid>
+      <guid>/publication/patent1.html</guid>
       <description>&lt;!--
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -88,9 +88,9 @@
     
     <item>
       <title>“When Numbers Matter!”: Detecting Sarcasm in Numerical Portions of Text</title>
-      <link>https://LakshKD.github.io/publication/sarcasmnaccl.html</link>
+      <link>/publication/sarcasmnaccl.html</link>
       <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://LakshKD.github.io/publication/sarcasmnaccl.html</guid>
+      <guid>/publication/sarcasmnaccl.html</guid>
       <description>&lt;!--
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -112,9 +112,9 @@
     
     <item>
       <title>AI can struggle to detect Sarcasm</title>
-      <link>https://LakshKD.github.io/featured/newspaperpublication.html</link>
+      <link>/featured/newspaperpublication.html</link>
       <pubDate>Tue, 19 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://LakshKD.github.io/featured/newspaperpublication.html</guid>
+      <guid>/featured/newspaperpublication.html</guid>
       <description>&lt;!--
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -136,9 +136,9 @@
     
     <item>
       <title>“Having 2 hours to write a paper is fun!”: Detecting Sarcasm in NumericalPortions of Text</title>
-      <link>https://LakshKD.github.io/publication/sarcasmarxiv.html</link>
+      <link>/publication/sarcasmarxiv.html</link>
       <pubDate>Wed, 06 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://LakshKD.github.io/publication/sarcasmarxiv.html</guid>
+      <guid>/publication/sarcasmarxiv.html</guid>
       <description>&lt;!--
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -160,9 +160,9 @@
     
     <item>
       <title>Sentiment intensity ranking among adjectives using sentiment bearing word embeddings</title>
-      <link>https://LakshKD.github.io/publication/sentimentintensity.html</link>
+      <link>/publication/sentimentintensity.html</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://LakshKD.github.io/publication/sentimentintensity.html</guid>
+      <guid>/publication/sentimentintensity.html</guid>
       <description>&lt;!--
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -184,9 +184,9 @@
     
     <item>
       <title>Approaches for computational sarcasm detection: A survey</title>
-      <link>https://LakshKD.github.io/publication/sarcasmsurvey.html</link>
+      <link>/publication/sarcasmsurvey.html</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://LakshKD.github.io/publication/sarcasmsurvey.html</guid>
+      <guid>/publication/sarcasmsurvey.html</guid>
       <description>&lt;!--
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -208,9 +208,9 @@
     
     <item>
       <title></title>
-      <link>https://LakshKD.github.io/admin.yml</link>
+      <link>/admin.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://LakshKD.github.io/admin.yml</guid>
+      <guid>/admin.yml</guid>
       <description></description>
     </item>
     
